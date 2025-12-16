@@ -1,7 +1,7 @@
 /* ===== Fonts ===== */
 @font-face {
     font-family: "Nunito";
-    src: url("fonts/Nunito-VariableFont_wght.ttf") format("truetype");
+    src: url("./fonts/Nunito-VariableFont_wght.ttf") format("truetype");
     font-weight: 200 1000;
     font-style: normal;
 }
@@ -172,4 +172,5 @@ body::-webkit-scrollbar-thumb:hover {
 a {
     color: #2575fc;
     text-decoration: none;
+
 }
